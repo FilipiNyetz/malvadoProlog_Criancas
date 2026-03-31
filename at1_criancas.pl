@@ -41,8 +41,6 @@ Lista = [
     crianca(Mochila_5, Nome_5, Mes_5, Jogo_5, Materia_5, Suco_5)
 ],
         
-
-        % Restrições fixas primeiro — melhora a performance
     	
     	% R06 - Na terceira posição está quem gosta de suco de Morango.
         (Suco_3 = morango),
